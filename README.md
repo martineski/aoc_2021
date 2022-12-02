@@ -6,7 +6,7 @@ Attempt to tackle the excellent advent of code with the [Nim programming languag
 
 Come with absolutely no experience in it, and a background in C, Perl, and others. But not Python, so syntax could be a bit of a hassle to start.
 
-Nim compiler version used:
+Nim compiler version used (output of `nim --version`):
 
 ```
 Nim Compiler Version 1.6.8 [Linux: amd64]
