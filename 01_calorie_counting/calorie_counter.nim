@@ -8,7 +8,7 @@ proc part1(): int =
 
     for line in lines("input.txt"):
         if line != "":
-            tmp += parseInt(line)
+            tmp += line.parseInt()
         else:
             maxCal = max(tmp, maxCal)
             tmp = 0
