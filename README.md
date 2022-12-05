@@ -8,6 +8,8 @@ Contrary to most people, I've lived under a rock and not worked extensively with
 
 Will try to alternate between C, Perl, Nim as the challenges progress!
 
+## Versions
+
 Nim compiler version used (output of `nim --version`):
 
 ```
