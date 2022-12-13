@@ -8,6 +8,17 @@ Contrary to most people, I've lived under a rock and not worked extensively with
 
 Will try to alternate between C, Perl, Nim as the challenges progress!
 
+## Solutions
+
+| Day | Title | Language |
+| --- | --- | --- |
+| 01 | calorie_counting | Nim |
+| 02 | rock_paper_scissors | Perl |
+| 03 | rucksack_reorganization | Perl |
+| 04 | camp_cleanup | C |
+| 05 | supply_stacks | Perl |
+| 06 | tuning_trouble | Nim |
+
 ## Versions
 
 Nim compiler version used (output of `nim --version`):
