@@ -38,7 +38,7 @@ int part2(char *fileName)
     int start1, start2, end1, end2;
     while (fscanf(fp, "%d-%d,%d-%d\n", &start1, &end1, &start2, &end2) == 4)
     {
-#if VERBOSE
+#if defined(VERBOSE)
         printf("%d-%d,%d-%d\n", start1, end1, start2, end2);
 #endif
         // check if within limits
